@@ -1,0 +1,4 @@
+( 1 ) Tomato
+( 2 ) Apple
+( 1 ) Avocado
+( 1 ) Milk
